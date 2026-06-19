@@ -1,0 +1,43 @@
+Epoch 1/20
+/usr/local/lib/python3.12/dist-packages/keras/src/trainers/data_adapters/py_dataset_adapter.py:121: UserWarning: Your `PyDataset` class should call `super().__init__(**kwargs)` in its constructor. `**kwargs` can include `workers`, `use_multiprocessing`, `max_queue_size`. Do not pass these arguments to `fit()`, as they will be ignored.
+  self._warn_if_super_not_called()
+180/180 ━━━━━━━━━━━━━━━━━━━━ 144s 661ms/step - accuracy: 0.8576 - loss: 0.3184 - val_accuracy: 0.9906 - val_loss: 0.0869
+Epoch 2/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 626ms/step - accuracy: 0.9962 - loss: 0.0528 - val_accuracy: 0.9906 - val_loss: 0.0793
+Epoch 3/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0326 - val_accuracy: 0.9937 - val_loss: 0.0747
+Epoch 4/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0288 - val_accuracy: 0.9937 - val_loss: 0.0721
+Epoch 5/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0273 - val_accuracy: 0.9937 - val_loss: 0.0701
+Epoch 6/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 626ms/step - accuracy: 1.0000 - loss: 0.0261 - val_accuracy: 0.9969 - val_loss: 0.0683
+Epoch 7/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0217 - val_accuracy: 0.9969 - val_loss: 0.0665
+Epoch 8/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0193 - val_accuracy: 0.9969 - val_loss: 0.0647
+Epoch 9/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0230 - val_accuracy: 0.9969 - val_loss: 0.0629
+Epoch 10/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0194 - val_accuracy: 0.9969 - val_loss: 0.0612
+Epoch 11/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0164 - val_accuracy: 0.9969 - val_loss: 0.0596
+Epoch 12/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 112s 625ms/step - accuracy: 1.0000 - loss: 0.0189 - val_accuracy: 0.9969 - val_loss: 0.0580
+Epoch 13/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 115s 637ms/step - accuracy: 1.0000 - loss: 0.0143 - val_accuracy: 0.9969 - val_loss: 0.0566
+Epoch 14/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0136 - val_accuracy: 0.9969 - val_loss: 0.0552
+Epoch 15/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 115s 637ms/step - accuracy: 1.0000 - loss: 0.0129 - val_accuracy: 0.9969 - val_loss: 0.0539
+Epoch 16/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0098 - val_accuracy: 0.9969 - val_loss: 0.0527
+Epoch 17/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0112 - val_accuracy: 0.9969 - val_loss: 0.0516
+Epoch 18/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0122 - val_accuracy: 0.9969 - val_loss: 0.0505
+Epoch 19/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 625ms/step - accuracy: 1.0000 - loss: 0.0109 - val_accuracy: 0.9969 - val_loss: 0.0495
+Epoch 20/20
+180/180 ━━━━━━━━━━━━━━━━━━━━ 113s 626ms/step - accuracy: 1.0000 - loss: 0.0100 - val_accuracy: 0.9969 - val_loss: 0.0486
+<keras.src.callbacks.history.History at 0x7ff1b2fc6240>
